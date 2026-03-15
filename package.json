@@ -1,0 +1,17 @@
+{
+  "name": "jda-strategy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "scripts": {
+    "figma": "node scripts/fetch-figma.js",
+    "figma:summary": "node scripts/fetch-figma.js --summary"
+  },
+  "dependencies": {
+    "dotenv": "^17.3.1"
+  }
+}
