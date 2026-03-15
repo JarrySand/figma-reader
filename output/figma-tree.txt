@@ -1,7 +1,157 @@
 # Figma File: FigJamへようこそ
-# Last Modified: 2026-03-15T03:07:01Z
+# Last Modified: 2026-03-15T07:31:45Z
 
 [CANVAS] Page 1
+  [SECTION] ai rearranged
+    [SECTION] Vtuber
+      [STICKY] 職業vtuber（金になるからやっている） | text: "職業vtuber（金になるからやっている）"
+      [STICKY] 職業vtuber（したいからやっている） | text: "職業vtuber（したいからやっている）"
+    [SECTION] 存在だけで価値があるもの
+      [STICKY] 動物 | text: "動物"
+      [STICKY] 自然 | text: "自然"
+      [STICKY] 未来の子供 | text: "未来の子供"
+    [SECTION] 思想的なひと
+      [STICKY] 賞状勲章が欲しい人 | text: "賞状勲章が欲しい人"
+      [STICKY] したことないことをしたい人 | text: "したことないことをしたい人"
+      [STICKY] 面白いことしたい人 | text: "面白いことしたい人"
+      [STICKY] 世界を革命したい人 | text: "世界を革命したい人"
+      [STICKY] 将来孫に自慢したい人 | text: "将来孫に自慢したい人"
+      [STICKY] 歴史に名を残したい人 | text: "歴史に名を残したい人"
+      [STICKY] 変わった政治家 | text: "変わった政治家"
+      [STICKY] ヒッピー | text: "ヒッピー"
+    [SECTION] Youth and students seeking purpose
+      [STICKY] 公教育になじめない若者 | text: "公教育になじめない若者"
+      [STICKY] 好奇心旺盛な学生（こういう社会にしたいという想いや志を持っている人） | text: "好奇心旺盛な学生（こういう社会にしたいという想いや志を持っている人）"
+      [STICKY] 共創して社会課題を解決する事業をやりたいひと | text: "共創して社会課題を解決する事業をやりたいひと"
+      [STICKY] 就職先探し | text: "就職先探し"
+      [STICKY] ガクチカ | text: "ガクチカ"
+      [STICKY] 成長したい人 | text: "成長したい人"
+      [STICKY] 自分探し（ワカモノ） | text: "自分探し（ワカモノ）"
+      [STICKY] シェアハウスやりたい人 | text: "シェアハウスやりたい人"
+      [SHAPE_WITH_TEXT] 出会い | text: "出会い"
+      [SHAPE_WITH_TEXT] 居場所探し | text: "居場所探し"
+    [SECTION] Parents and education-focused individuals
+      [STICKY] AI時代のスキル的なものを子供に学ばせねば、と思っている親 | text: "AI時代のスキル的なものを子供に学ばせねば、と思っている親"
+      [STICKY] 子育て世帯 子供にいい教育を受けさせたい | text: "子育て世帯
+子供にいい教育を受けさせたい"
+      [STICKY] 子供が卒業した母 | text: "子供が卒業した母"
+      [STICKY] 子育て世帯 子育てを手伝ってもらいたい | text: "子育て世帯
+子育てを手伝ってもらいたい"
+    [SECTION] Wealthy individuals and investors
+      [STICKY] クリプト系のファンド  | text: "クリプト系のファンド "
+      [STICKY] ロータリーとかのお金と影響力が余っている人 | text: "ロータリーとかのお金と影響力が余っている人"
+      [STICKY] 豪農 | text: "豪農"
+      [STICKY] 旧貴族 | text: "旧貴族"
+      [STICKY] 地域の花火のお金出す人たち | text: "地域の花火のお金出す人たち"
+      [STICKY] 資産（土地や家）が余ってる人 | text: "資産（土地や家）が余ってる人"
+      [STICKY] 地域の地主 | text: "地域の地主"
+    [SECTION] Local government and regional organizations
+      [STICKY] 自治体 | text: "自治体"
+      [STICKY] 地域キーマン | text: "地域キーマン"
+      [STICKY] 地域企業 | text: "地域企業"
+      [STICKY] 域外のアイデアが欲しい人、地域組織 | text: "域外のアイデアが欲しい人、地域組織"
+    [SECTION] People seeking community and collaboration
+      [STICKY] 昔から市民活動していて、活動がなくなりそうな人 | text: "昔から市民活動していて、活動がなくなりそうな人"
+      [STICKY] SDGsやりたい人（半受動的、Z世代、30代女性） | text: "SDGsやりたい人（半受動的、Z世代、30代女性）"
+      [STICKY] コミュニティが好きな人 | text: "コミュニティが好きな人"
+      [SHAPE_WITH_TEXT] クラファンで応援する人 | text: "クラファンで応援する人"
+      [STICKY] 寄付会員になる人 | text: "寄付会員になる人"
+      [STICKY] 個人版ふるさと納税してくれる人（応援目的） | text: "個人版ふるさと納税してくれる人（応援目的）"
+      [STICKY] 利回りと、社会貢献を両立したい人 | text: "利回りと、社会貢献を両立したい人"
+    [SECTION] People seeking unique experiences and culture
+      [STICKY] 唯一無二の体験をしたい人 | text: "唯一無二の体験をしたい人"
+      [STICKY] 旅行者 | text: "旅行者"
+      [STICKY] 日本のローカルを感じたい都会の人、海外の人 | text: "日本のローカルを感じたい都会の人、海外の人"
+      [STICKY] リトリートしたい人 | text: "リトリートしたい人"
+      [STICKY] 外国人（旅行者） | text: "外国人（旅行者）"
+      [STICKY] 外国人（ノマド） | text: "外国人（ノマド）"
+    [SECTION] People seeking personal growth and transformation
+      [STICKY] 暗号資産で当たった人 | text: "暗号資産で当たった人"
+      [STICKY] エグジットした人（ファイアー） | text: "エグジットした人（ファイアー）"
+      [STICKY] これまでの経験やスキルを活かして、若者のため、未来のため、社会のためになんかしたい、人生経験豊富な方 | text: "これまでの経験やスキルを活かして、若者のため、未来のため、社会のためになんかしたい、人生経験豊富な方"
+      [STICKY] 定年退職後暇な人（お金はあってもつながりない寂しい） | text: "定年退職後暇な人（お金はあってもつながりない寂しい）"
+      [STICKY] 退任自衛官 | text: "退任自衛官"
+      [STICKY] 退職直後の人 | text: "退職直後の人"
+    [SECTION] Tax and donation-related individuals
+      [STICKY] 遺贈する人 | text: "遺贈する人"
+      [STICKY] 法人版ふるさと納税してくれる会社 | text: "法人版ふるさと納税してくれる会社"
+      [STICKY] 相続財産の一部を整理したい人 | text: "相続財産の一部を整理したい人"
+      [STICKY] DAOカードで給料を受け取ってくれる企業 | text: "DAOカードで給料を受け取ってくれる企業"
+      [STICKY] CSRしたい企業 | text: "CSRしたい企業"
+      [STICKY] 内部留保がある企業 | text: "内部留保がある企業"
+      [STICKY] 持続可能な社会のために活動していることを社外にアピールしたい企業 | text: "持続可能な社会のために活動していることを社外にアピールしたい企業"
+    [SECTION] Retirees and post-career individuals
+      [STICKY] 文化・お祭りを作りたい人 | text: "文化・お祭りを作りたい人"
+      [STICKY] 文化保全の人 | text: "文化保全の人"
+    [SECTION] Educational institutions
+      [STICKY] 研究機関 | text: "研究機関"
+      [STICKY] 大学法人 | text: "大学法人"
+      [STICKY] 学校法人 | text: "学校法人"
+      [STICKY] 大学 | text: "大学"
+      [STICKY] シンクタンク | text: "シンクタンク"
+      [STICKY] 社会理論の実践を試したい人 | text: "社会理論の実践を試したい人"
+    [SECTION] Social entrepreneurs and impact-driven founders
+      [STICKY] ソーシャルなプロジェクトオーナー | text: "ソーシャルなプロジェクトオーナー"
+      [STICKY] スタートアップ以外の形で起業したい人 | text: "スタートアップ以外の形で起業したい人"
+      [STICKY] ソーシャル系の起業/ゼブラ企業をやっているが、収益化が難しい、なんか違うと思っている人（みいさんみたいなかた） | text: "ソーシャル系の起業/ゼブラ企業をやっているが、収益化が難しい、なんか違うと思っている人（みいさんみたいなかた）"
+      [STICKY] 本質的な戦略を立てられているスタートアップ | text: "本質的な戦略を立てられているスタートアップ"
+      [STICKY] 自分でDAOを使った事業やりたい人 | text: "自分でDAOを使った事業やりたい人"
+      [STICKY] エグジットした人（また自分でやる） | text: "エグジットした人（また自分でやる）"
+      [STICKY] 既存事業がうまくいかず、とにかくなんか糸口が欲しい人 | text: "既存事業がうまくいかず、とにかくなんか糸口が欲しい人"
+      [STICKY] 自分の活動に参加する仲間を集めたい人 | text: "自分の活動に参加する仲間を集めたい人"
+      [STICKY] エコビレッジやりたい人 | text: "エコビレッジやりたい人"
+    [STICKY] 副業vtuber | text: "副業vtuber"
+    [SECTION] People with excess assets (land, property)
+      [STICKY] 大手ディベロッパー（受託） | text: "大手ディベロッパー（受託）
+"
+      [STICKY] 不動産価値を高めたい | text: "不動産価値を高めたい"
+      [STICKY] 不動産売りたい | text: "不動産売りたい"
+    [SECTION] Visionaries and idealists
+      [STICKY] 陰謀論系 | text: "陰謀論系"
+      [STICKY] スピリチュアル系 | text: "スピリチュアル系"
+      [STICKY] 信者 | text: "信者"
+      [STICKY] オンラインサロン入っている人 | text: "オンラインサロン入っている人"
+      [STICKY] 寂しい人 | text: "寂しい人"
+      [STICKY] 病んでいる人 | text: "病んでいる人"
+    [SECTION] Financial security seekers
+      [STICKY] 高い利回り商品を買いたい人 | text: "高い利回り商品を買いたい人"
+      [STICKY] 将来の不安を解消したい人（お金で） | text: "将来の不安を解消したい人（お金で）"
+      [STICKY] 節税する人 | text: "節税する人"
+      [STICKY] ファイヤー目指していて、ファイアーした人 | text: "ファイヤー目指していて、ファイアーした人"
+    [SECTION] Corporations seeking CSR and social impact
+      [STICKY] 人材が欲しい企業 | text: "人材が欲しい企業"
+      [STICKY] アントレ教育したい企業 | text: "アントレ教育したい企業"
+    [STICKY] 将来の不安を解消したい人（モノで） | text: "将来の不安を解消したい人（モノで）"
+    [SECTION] People wanting to relocate or settle
+      [STICKY] 新しい場所に定住したい人 | text: "新しい場所に定住したい人"
+      [STICKY] 地域と接点が持てずに困ってるひと | text: "地域と接点が持てずに困ってるひと"
+      [STICKY] 将来の不安を解消したい人（人の繋がりで） | text: "将来の不安を解消したい人（人の繋がりで）"
+    [SECTION] Cultural preservation and community events
+      [STICKY] アーティスト | text: "アーティスト"
+      [STICKY] 哲学者 | text: "哲学者"
+    [SECTION] Communities in need of support
+      [STICKY] 被災地 | text: "被災地
+"
+      [STICKY] 地域に人が来なくて困ってる人 | text: "地域に人が来なくて困ってる人"
+      [STICKY] 地域に若者が残ってほしい/来てほしいと思うひと | text: "地域に若者が残ってほしい/来てほしいと思うひと"
+      [STICKY] さんせく | text: "さんせく"
+    [STICKY] 株主優待を受けたい人 | text: "株主優待を受けたい人"
+    [SECTION] Elderly needing community support
+      [STICKY] 私道山道整理/雪掘りとかのマンパワーが足りないお年寄り | text: "私道山道整理/雪掘りとかのマンパワーが足りないお年寄り"
+      [STICKY] ねたきり | text: "ねたきり"
+    [SECTION] Financial institutions
+      [STICKY] 地銀 | text: "地銀"
+      [STICKY] メガバン | text: "メガバン"
+      [STICKY] 財団 | text: "財団"
+      [STICKY] VC | text: "VC"
+      [STICKY] 休眠預金 | text: "休眠預金"
+    [SECTION] Service providers and tool developers
+      [STICKY] ツール開発事業者 | text: "ツール開発事業者"
+      [STICKY] DAOで食っていきた人 | text: "DAOで食っていきた人"
+      [STICKY] ブロックチェーンが実社会で使われると嬉しい人 | text: "ブロックチェーンが実社会で使われると嬉しい人"
+    [STICKY] 個人版ふるさと納税してくれる人（リターン目的） | text: "個人版ふるさと納税してくれる人（リターン目的）"
+    [SECTION] Employees and workforce
+      [STICKY] 福利厚生を受ける従業員 | text: "福利厚生を受ける従業員"
   [TEXT] Q.どんな人が受益者になりうるか？ | text: "Q.どんな人が受益者になりうるか？"
   [STICKY] 地域キーマン | text: "地域キーマン"
   [STICKY] 地域企業 | text: "地域企業"
@@ -143,155 +293,11 @@
   [TEXT] ノウハウ（アセット） ネットワーク（ステークホルダー） ブランド（トークン/ポイント） | text: "ノウハウ（アセット）
 ネットワーク（ステークホルダー）
 ブランド（トークン/ポイント）"
-  [SECTION] Youth and students seeking purpose
-    [STICKY] 公教育になじめない若者 | text: "公教育になじめない若者"
-    [STICKY] 好奇心旺盛な学生（こういう社会にしたいという想いや志を持っている人） | text: "好奇心旺盛な学生（こういう社会にしたいという想いや志を持っている人）"
-    [STICKY] 共創して社会課題を解決する事業をやりたいひと | text: "共創して社会課題を解決する事業をやりたいひと"
-    [STICKY] 就職先探し | text: "就職先探し"
-    [STICKY] ガクチカ | text: "ガクチカ"
-    [STICKY] 成長したい人 | text: "成長したい人"
-    [STICKY] 自分探し（ワカモノ） | text: "自分探し（ワカモノ）"
-    [STICKY] シェアハウスやりたい人 | text: "シェアハウスやりたい人"
-    [SHAPE_WITH_TEXT] 出会い | text: "出会い"
-    [SHAPE_WITH_TEXT] 居場所探し | text: "居場所探し"
-  [SECTION] Parents and education-focused individuals
-    [STICKY] AI時代のスキル的なものを子供に学ばせねば、と思っている親 | text: "AI時代のスキル的なものを子供に学ばせねば、と思っている親"
-    [STICKY] 子育て世帯 子供にいい教育を受けさせたい | text: "子育て世帯
-子供にいい教育を受けさせたい"
-    [STICKY] 子供が卒業した母 | text: "子供が卒業した母"
-    [STICKY] 子育て世帯 子育てを手伝ってもらいたい | text: "子育て世帯
-子育てを手伝ってもらいたい"
-  [SECTION] Wealthy individuals and investors
-    [STICKY] クリプト系のファンド  | text: "クリプト系のファンド "
-    [STICKY] ロータリーとかのお金と影響力が余っている人 | text: "ロータリーとかのお金と影響力が余っている人"
-    [STICKY] 豪農 | text: "豪農"
-    [STICKY] 旧貴族 | text: "旧貴族"
-    [STICKY] 地域の花火のお金出す人たち | text: "地域の花火のお金出す人たち"
-    [STICKY] 資産（土地や家）が余ってる人 | text: "資産（土地や家）が余ってる人"
-    [STICKY] 地域の地主 | text: "地域の地主"
-  [STICKY] 未来の子供 | text: "未来の子供"
-  [STICKY] 動物 | text: "動物"
-  [SECTION] Local government and regional organizations
-    [STICKY] 自治体 | text: "自治体"
-    [STICKY] 地域キーマン | text: "地域キーマン"
-    [STICKY] 地域企業 | text: "地域企業"
-    [STICKY] 域外のアイデアが欲しい人、地域組織 | text: "域外のアイデアが欲しい人、地域組織"
-  [SECTION] People seeking community and collaboration
-    [STICKY] 昔から市民活動していて、活動がなくなりそうな人 | text: "昔から市民活動していて、活動がなくなりそうな人"
-    [STICKY] SDGsやりたい人（半受動的、Z世代、30代女性） | text: "SDGsやりたい人（半受動的、Z世代、30代女性）"
-    [STICKY] コミュニティが好きな人 | text: "コミュニティが好きな人"
-    [SHAPE_WITH_TEXT] クラファンで応援する人 | text: "クラファンで応援する人"
-    [STICKY] 寄付会員になる人 | text: "寄付会員になる人"
-    [STICKY] 個人版ふるさと納税してくれる人（応援目的） | text: "個人版ふるさと納税してくれる人（応援目的）"
-    [STICKY] 利回りと、社会貢献を両立したい人 | text: "利回りと、社会貢献を両立したい人"
-  [SECTION] People seeking unique experiences and culture
-    [STICKY] 唯一無二の体験をしたい人 | text: "唯一無二の体験をしたい人"
-    [STICKY] 旅行者 | text: "旅行者"
-    [STICKY] 日本のローカルを感じたい都会の人、海外の人 | text: "日本のローカルを感じたい都会の人、海外の人"
-    [STICKY] リトリートしたい人 | text: "リトリートしたい人"
-    [STICKY] 外国人（旅行者） | text: "外国人（旅行者）"
-    [STICKY] 外国人（ノマド） | text: "外国人（ノマド）"
-  [SECTION] People seeking personal growth and transformation
-    [STICKY] 暗号資産で当たった人 | text: "暗号資産で当たった人"
-    [STICKY] エグジットした人（ファイアー） | text: "エグジットした人（ファイアー）"
-    [STICKY] これまでの経験やスキルを活かして、若者のため、未来のため、社会のためになんかしたい、人生経験豊富な方 | text: "これまでの経験やスキルを活かして、若者のため、未来のため、社会のためになんかしたい、人生経験豊富な方"
-    [STICKY] 定年退職後暇な人（お金はあってもつながりない寂しい） | text: "定年退職後暇な人（お金はあってもつながりない寂しい）"
-    [STICKY] 退任自衛官 | text: "退任自衛官"
-    [STICKY] 退職直後の人 | text: "退職直後の人"
-  [STICKY] 賞状勲章が欲しい人 | text: "賞状勲章が欲しい人"
-  [STICKY] したことないことをしたい人 | text: "したことないことをしたい人"
-  [STICKY] 面白いことしたい人 | text: "面白いことしたい人"
-  [SECTION] Tax and donation-related individuals
-    [STICKY] 遺贈する人 | text: "遺贈する人"
-    [STICKY] 法人版ふるさと納税してくれる会社 | text: "法人版ふるさと納税してくれる会社"
-    [STICKY] 相続財産の一部を整理したい人 | text: "相続財産の一部を整理したい人"
-    [STICKY] DAOカードで給料を受け取ってくれる企業 | text: "DAOカードで給料を受け取ってくれる企業"
-    [STICKY] CSRしたい企業 | text: "CSRしたい企業"
-    [STICKY] 内部留保がある企業 | text: "内部留保がある企業"
-    [STICKY] 持続可能な社会のために活動していることを社外にアピールしたい企業 | text: "持続可能な社会のために活動していることを社外にアピールしたい企業"
-  [SECTION] Retirees and post-career individuals
-    [STICKY] 文化・お祭りを作りたい人 | text: "文化・お祭りを作りたい人"
-    [STICKY] 文化保全の人 | text: "文化保全の人"
-  [SECTION] Educational institutions
-    [STICKY] 研究機関 | text: "研究機関"
-    [STICKY] 大学法人 | text: "大学法人"
-    [STICKY] 学校法人 | text: "学校法人"
-    [STICKY] 大学 | text: "大学"
-    [STICKY] シンクタンク | text: "シンクタンク"
-    [STICKY] 社会理論の実践を試したい人 | text: "社会理論の実践を試したい人"
-  [SECTION] Social entrepreneurs and impact-driven founders
-    [STICKY] ソーシャルなプロジェクトオーナー | text: "ソーシャルなプロジェクトオーナー"
-    [STICKY] スタートアップ以外の形で起業したい人 | text: "スタートアップ以外の形で起業したい人"
-    [STICKY] ソーシャル系の起業/ゼブラ企業をやっているが、収益化が難しい、なんか違うと思っている人（みいさんみたいなかた） | text: "ソーシャル系の起業/ゼブラ企業をやっているが、収益化が難しい、なんか違うと思っている人（みいさんみたいなかた）"
-    [STICKY] 本質的な戦略を立てられているスタートアップ | text: "本質的な戦略を立てられているスタートアップ"
-    [STICKY] 自分でDAOを使った事業やりたい人 | text: "自分でDAOを使った事業やりたい人"
-    [STICKY] エグジットした人（また自分でやる） | text: "エグジットした人（また自分でやる）"
-    [STICKY] 既存事業がうまくいかず、とにかくなんか糸口が欲しい人 | text: "既存事業がうまくいかず、とにかくなんか糸口が欲しい人"
-    [STICKY] 自分の活動に参加する仲間を集めたい人 | text: "自分の活動に参加する仲間を集めたい人"
-    [STICKY] エコビレッジやりたい人 | text: "エコビレッジやりたい人"
-  [STICKY] 世界を革命したい人 | text: "世界を革命したい人"
-  [SECTION] People with excess assets (land, property)
-    [STICKY] 大手ディベロッパー（受託） | text: "大手ディベロッパー（受託）
-"
-    [STICKY] 不動産価値を高めたい | text: "不動産価値を高めたい"
-    [STICKY] 不動産売りたい | text: "不動産売りたい"
-  [SECTION] Visionaries and idealists
-    [STICKY] 陰謀論系 | text: "陰謀論系"
-    [STICKY] スピリチュアル系 | text: "スピリチュアル系"
-    [STICKY] 信者 | text: "信者"
-    [STICKY] オンラインサロン入っている人 | text: "オンラインサロン入っている人"
-    [STICKY] 寂しい人 | text: "寂しい人"
-    [STICKY] 病んでいる人 | text: "病んでいる人"
-  [SECTION] Financial security seekers
-    [STICKY] 高い利回り商品を買いたい人 | text: "高い利回り商品を買いたい人"
-    [STICKY] 将来の不安を解消したい人（お金で） | text: "将来の不安を解消したい人（お金で）"
-    [STICKY] 節税する人 | text: "節税する人"
-    [STICKY] ファイヤー目指していて、ファイアーした人 | text: "ファイヤー目指していて、ファイアーした人"
-  [SECTION] Corporations seeking CSR and social impact
-    [STICKY] 人材が欲しい企業 | text: "人材が欲しい企業"
-    [STICKY] アントレ教育したい企業 | text: "アントレ教育したい企業"
-  [STICKY] 将来の不安を解消したい人（モノで） | text: "将来の不安を解消したい人（モノで）"
-  [STICKY] 自然 | text: "自然"
-  [SECTION] People wanting to relocate or settle
-    [STICKY] 新しい場所に定住したい人 | text: "新しい場所に定住したい人"
-    [STICKY] 地域と接点が持てずに困ってるひと | text: "地域と接点が持てずに困ってるひと"
-    [STICKY] 将来の不安を解消したい人（人の繋がりで） | text: "将来の不安を解消したい人（人の繋がりで）"
-  [SECTION] Cultural preservation and community events
-    [STICKY] アーティスト | text: "アーティスト"
-    [STICKY] 哲学者 | text: "哲学者"
-  [SECTION] Communities in need of support
-    [STICKY] 被災地 | text: "被災地
-"
-    [STICKY] 地域に人が来なくて困ってる人 | text: "地域に人が来なくて困ってる人"
-    [STICKY] 地域に若者が残ってほしい/来てほしいと思うひと | text: "地域に若者が残ってほしい/来てほしいと思うひと"
-    [STICKY] さんせく | text: "さんせく"
-  [STICKY] 将来孫に自慢したい人 | text: "将来孫に自慢したい人"
-  [STICKY] 株主優待を受けたい人 | text: "株主優待を受けたい人"
-  [STICKY] 歴史に名を残したい人 | text: "歴史に名を残したい人"
-  [SECTION] Elderly needing community support
-    [STICKY] 私道山道整理/雪掘りとかのマンパワーが足りないお年寄り | text: "私道山道整理/雪掘りとかのマンパワーが足りないお年寄り"
-    [STICKY] ねたきり | text: "ねたきり"
-  [SECTION] Financial institutions
-    [STICKY] 地銀 | text: "地銀"
-    [STICKY] メガバン | text: "メガバン"
-    [STICKY] 財団 | text: "財団"
-    [STICKY] VC | text: "VC"
-    [STICKY] 休眠預金 | text: "休眠預金"
-  [SECTION] Service providers and tool developers
-    [STICKY] ツール開発事業者 | text: "ツール開発事業者"
-    [STICKY] DAOで食っていきた人 | text: "DAOで食っていきた人"
-    [STICKY] ブロックチェーンが実社会で使われると嬉しい人 | text: "ブロックチェーンが実社会で使われると嬉しい人"
-  [STICKY] 個人版ふるさと納税してくれる人（リターン目的） | text: "個人版ふるさと納税してくれる人（リターン目的）"
-  [SECTION] Employees and workforce
-    [STICKY] 福利厚生を受ける従業員 | text: "福利厚生を受ける従業員"
   [TEXT] ①応援する人 ②やる人 ③受け取る人 | text: "①応援する人
 ②やる人
 ③受け取る人"
-  [TEXT] やりたいことを探している子ども,若者 | text: "やりたいことを探している子ども,若者"
-  [STICKY] 変わった政治家 | text: "変わった政治家"
-  [STICKY] ヒッピー | text: "ヒッピー"
-  [STICKY] 職業vtuber（したいからやっている） | text: "職業vtuber（したいからやっている）"
-  [STICKY] 副業vtuber | text: "副業vtuber"
-  [STICKY] 職業vtuber（金になるからやっている） | text: "職業vtuber（金になるからやっている）"
   [SHAPE_WITH_TEXT] 講師、コンテンツ | text: "講師、コンテンツ"
-  [TEXT] 広める、 | text: "広める、"
+  [TEXT] DAO広める 参加する お金払う | text: "DAO広める 参加する お金払う"
+  [RECTANGLE] image 3
+  [TEXT] 講座助成する 参加者を受け入れる | text: "講座助成する
+参加者を受け入れる"
